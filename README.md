@@ -1,7 +1,7 @@
-# Ex.No: 1B                     CONVERSION OF NON STATIONARY TO STATIONARY DATA
-# Date: 
-# name:H.Berjin Shabeck
-# reg no:212222240018
+# Ex.No: 1B CONVERSION OF NON STATIONARY TO STATIONARY DATA
+## Date:17/08/2024
+## Name:H.Berjin Shabeck
+## Reg no:212222240018
 
 ### AIM:
 To perform regular differncing,seasonal adjustment and log transformation on studenyt study hour marks data.
